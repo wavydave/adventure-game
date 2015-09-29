@@ -1,0 +1,19 @@
+.border{
+	border-style: solid;
+	 border-width: 1px; 
+	 border-color:black; 
+	 height: 200px;
+}
+.centerVertical{
+	position:relative;
+	top:50%;
+}
+
+.abe {
+	background-image: url("http://38.media.tumblr.com/tumblr_m2e4ipcitk1qfl6a2o1_250.gif");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+
+
+}
